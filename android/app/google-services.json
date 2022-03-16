@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719557081898",
+    "firebase_url": "https://speakeng-23e6a.firebaseio.com",
+    "project_id": "speakeng-23e6a",
+    "storage_bucket": "speakeng-23e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719557081898:android:85495829c9d26528d27c53",
+        "android_client_info": {
+          "package_name": "com.pgs.speakeng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719557081898-qsumkvu85v8ac3c3b6to7qf33g0pbit6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgHPBSbav8gwI29eHNNQ_K2esC7kR2tog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719557081898-qsumkvu85v8ac3c3b6to7qf33g0pbit6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

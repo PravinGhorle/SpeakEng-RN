@@ -1,4 +1,4 @@
-package com.speakeng;
+package com.pgs.speakeng;
 
 import com.facebook.react.ReactActivity;
 
